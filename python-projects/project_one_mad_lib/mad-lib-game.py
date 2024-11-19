@@ -1,4 +1,4 @@
-# Welcome to a Mad Libs game. This game will ask you questions a few questions and then it will print out a story.
+# Welcome to a Mad Libs game. This game will ask you questions and then it will print out a story.
 # Please follow the instructions on the screen.
 
 adjective_one = input("Please enter an Adjective: ")
