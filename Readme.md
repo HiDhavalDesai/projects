@@ -1,7 +1,8 @@
 Here are a list of all projects:
 <br>
-<ul>
-<ol>HTML/CSS</ol>
-<ol>HTML/CSS/JAVASCRIPT</ol>
-<ol>PYTHON</ol>
-</ul>
+1.HTML/CSS
+    a.
+2.HTML/CSS/JAVASCRIPT
+    a.
+3.PYTHON
+    a.
