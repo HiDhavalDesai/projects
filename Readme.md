@@ -1,19 +1,18 @@
 Here are a list of all projects:
-<br><br>
 <ol>
-<li>HTML/CSS</li>
+<li><strong>HTML/CSS</strong></li>
     <ol>
-    <li>My Blog Website</li>
-    <li>Single page Portfolio</li>
+    <li><a href="html-css-projects\project_two_blog">My Blog Website</a></li>
+    <li><a href="html-css-projects\project_one_portfolio">Single page Portfolio</a></li>
     </ol>
-<li>HTML/CSS/JAVASCRIPT</li>
+<li><strong>HTML/CSS/JAVASCRIPT</strong></li>
     <ol>
        <li></li> 
     </ol>
-<li>PYTHON</li>
+<li><strong>PYTHON</strong></li>
     <ol>
-        <li>Mad Libs Game</li>
-        <li>Quiz Game</li>
-        <li>odd or Even</li>
+        <li><a href="python-projects\project_one_mad_lib">Mad Libs Game</a></li>
+        <li><a href="python-projects\poject_two_quiz_game">Quiz Game</a></li>
+        <li><a href="python-projects\project_three_odd_or_even">odd or Even</a></li>
     </ol>
 </ol>
