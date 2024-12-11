@@ -12,7 +12,7 @@ Here are a list of all projects:
 <li><strong>PYTHON</strong></li>
     <ol>
         <li><a href="python-projects\project_one_mad_lib">Mad Libs Game</a></li>
-        <li><a href="python-projects\poject_two_quiz_game">Quiz Game</a></li>
+        <li><a href="python-projects\project_two_quiz_game">Quiz Game</a></li>
         <li><a href="python-projects\project_three_odd_or_even">odd or Even</a></li>
     </ol>
 </ol>
